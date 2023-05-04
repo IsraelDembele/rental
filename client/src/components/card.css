@@ -1,0 +1,58 @@
+.house {
+  margin-top: 5px;
+  padding: 5px;
+  background-color: red;
+}
+
+.adress {
+  white-space: pre-wrap !important;
+  width: 200px !important;
+}
+
+.card-box {
+  max-width: 400px !important;
+  min-width: 300px !important;
+  margin: 10px;
+  display: inline-block;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+}
+
+.actions {
+  display: block !important;
+  width: 100%;
+}
+
+.action {
+  display: inline-block !important;
+  margin: 5px;
+}
+
+.close-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 25px;
+  height: 25px;
+  background-color: #00d1b2;
+  padding: 0;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.card-content {
+  min-height: 240px !important;
+}
+
+.more {
+  font-size: x-large;
+}
+
+.addChange {
+  border: medium;
+  padding: 5px;
+  margin: 5px;
+  font-size: x-large;
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+/*# sourceMappingURL=card.css.map */

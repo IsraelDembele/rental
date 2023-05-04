@@ -1,0 +1,50 @@
+
+.header {
+  background: #00d1b2;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  height: -moz-fit-content !important;
+  min-height: 100px !important;
+  // display: flex;
+  // float: left;
+}
+.welcome{
+  font-family: 'Akronim';
+  color: rgb(105, 71, 255);
+  display: inline-block;
+
+}
+
+.header-block{
+  
+  background-color: antiquewhite;
+}
+
+.logo{
+  width: 75px !important;
+  height: 75px !important;
+  float: left;
+  // display: inline-block;
+}
+
+.navbutton{
+  position: absolute;
+  top: 130px;
+  left: 80%;
+}
+
+.new-h-input{
+  display: block;
+  margin: 7.5px auto;
+  width: 80%; 
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+} 
+
+.new-h-label{ 
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
