@@ -23,7 +23,7 @@
 
  ## LINK   
 
- https://rent-a-house.herokuapp.com/
+ 
 
 ## IMAGE
  ![Picture](https://github.com/israel81boot/property-app/blob/master/client/src/images/2020-03-13%20(1).png)
